@@ -2,7 +2,7 @@
 
 - 🔭 Graduanda em Design de Produto e Desenvolvedora front-end. 
 - 🌱 Estudando JavaScript e React.js.
-- ⚡ Comecei estudando Design de Produto na faculdade, mas escolhi migrar para WebDesign e Desenvolvimento Web.
+- ⚡ Comecei cursando Design de Produto na faculdade, mas escolhi migrar de carreira para WebDesign e Desenvolvimento Web.
 <br>
 <div align="center">
   <a href="https://helenardrgz.github.io/PortfolioWeb/">
