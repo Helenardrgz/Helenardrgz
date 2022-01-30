@@ -4,7 +4,6 @@
 - 🌱 Estudando JavaScript e React.js.
 - ⚡ Comecei estudando Design de Produto na faculdade, mas escolhi migrar para WebDesign e Desenvolvimento Web.
 <br>
-<br>
 <div align="center">
   <a href="https://helenardrgz.github.io/PortfolioWeb/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helenardrgz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
