@@ -6,8 +6,8 @@
 <br>
 <div align="center">
   <a href="https://helenardrgz.github.io/PortfolioWeb/" target="_blank">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Helenardrgz&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenardrgz&layout=compact&langs_count=7&theme=omni">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Helenardrgz&show_icons=true&theme=omni&include_all_commits=true&count_private=true" target="_blank">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helenardrgz&layout=compact&langs_count=7&theme=omni" target="_blank">
     <a/>
 </div>
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Helena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Helena-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Helena-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Helena-Photoshopr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
 </div>
   
